@@ -1,5 +1,5 @@
-# highlights :)
-Thi
+# Highlights
+This is a very loose selection of some of the work I have done in university and before. 
 
 - report of my summer internship working on laser frequency stabilisation at TRIUMF
 - the presentation I gave about this work at the Canadian Undergraduate Physics Conference (CUPC) 2019 in Montreal
