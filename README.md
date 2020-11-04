@@ -1,5 +1,5 @@
 # Highlights
-This is an incomplete selection of some of the work I have done in university and before. It includes: 
+This is an incomplete selection of some of the physics-related work I have done in university and before. It includes: 
 
 - the report of my summer internship working on laser frequency stabilisation at TRIUMF
 - the presentation I gave about this work at the Canadian Undergraduate Physics Conference (CUPC) 2019 in Montreal
