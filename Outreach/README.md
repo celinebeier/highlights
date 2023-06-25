@@ -1,5 +1,5 @@
 # Science Outreach
-These are some of the designs and files I have created for science outreach events I organized. It includes:
+These are some of the designs I created for science outreach I have been involved in: 
 
 - In 2023, I organized Wikipedia workshop at McGill with the non-profit organization Arts+Feminism focused on increasing the visibilty of Canadian eomen in physics. Details about the event can be found here:
   https://artandfeminism.org/edit_a_thon/mcgill-wikipedia-edit-a-thon/
