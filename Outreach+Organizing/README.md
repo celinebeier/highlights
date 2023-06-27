@@ -1,5 +1,5 @@
 # Science Outreach and Event Organization
-These are examples of my work in science outreach events: 
+This folder contains some examples of the outreach and physics programs I have worked on in the last years: 
 
 - For the Rutherford Museum and McPherson Collections at McGill University I created two exhibitions about X-Rays at McGill and acoustics reseaech in the 19th century. The PDF filest contain the labels as well as pictures of the finished exhibition spaces. 
 - In 2023, I organized Wikipedia workshop at McGill with the non-profit organization Arts+Feminism focused on increasing the visibilty of Canadian eomen in physics. Details about the event can be found here:
