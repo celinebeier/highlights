@@ -1,5 +1,5 @@
 # Archaeological Science
-I am currently studying in the Erasmus Mundus Joint Master’s Programme in Archaeological Materials Science (ARCHMAT), jointly offered by the University of Évora, Aristotle University of Thessaloniki, and Sapienza University of Rome. More information about the program can be found here: https://www.erasmusmundus-archmat.uevora.pt/curriculum.html
+I am currently studying in the Erasmus Mundus Joint Master’s Programme in Archaeological Materials Science (ARCHMAT), jointly offered by the University of Évora, Aristotle University of Thessaloniki and Sapienza University of Rome. More information about the program can be found here: https://www.erasmusmundus-archmat.uevora.pt/curriculum.html
 
 This repository contains a selection of my coursework and research completed as part of the ARCHMAT program, including:
 
