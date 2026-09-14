@@ -8,3 +8,4 @@ This repository contains a selection of my coursework and research completed as 
 - a research project about Lemnian Earth, created during the ARCHMAT Summer School, exploring how cultural heritage and contemporary life intersect
 - a paper on multispectral photogrammetry in cultural heritage science, prepared for the course Digital Techniques and Laboratory Practice in Archaeological Materials Science
 - a presentation on the use of Scanning Electron Microscopy (SEM) for the investigation of Portland cement in the conservation of building cultural heritage
+- my Master thesis written at the Museum of Cultural History in Oslo
